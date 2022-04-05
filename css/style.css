@@ -51,13 +51,14 @@ body {
 	flex: 0 0 260px;
 	display: flex;
 	justify-content: flex-end;
+	margin-right: 30px;
 }
 
 
 .menu {
 	display: flex;
 	justify-content: flex-end;
-	margin-right: 220px;
+	margin-right: 200px;
 }
 
 
